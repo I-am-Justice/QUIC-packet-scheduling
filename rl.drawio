@@ -1,1 +1,28 @@
-<mxfile host="app.diagrams.net" modified="2020-05-03T22:44:59.032Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36" version="13.0.5" etag="N8pjYkl3osMolGaBDT42" type="github"><diagram id="JYhLl3C2CKm9hIPQNt4D">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-05-04T00:00:30.970Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36" etag="Lm08PipEpbAtzBMLX43-" version="13.0.5" type="github">
+  <diagram id="JYhLl3C2CKm9hIPQNt4D" name="Page-1">
+    <mxGraphModel dx="1358" dy="773" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="QHD_cZJudqXIN7brZWgv-57" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.infographic.cylinder;fillColor=#23445D;strokeColor=none;shadow=0;fontColor=#10739E;align=left;rotation=90;direction=east;" vertex="1" parent="1">
+          <mxGeometry x="445" y="100" width="30" height="580" as="geometry" />
+        </mxCell>
+        <mxCell id="QHD_cZJudqXIN7brZWgv-58" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.infographic.cylinder;fillColor=#12AAB5;strokeColor=none;shadow=0;fontColor=#10739E;align=left;rotation=90;direction=east;" vertex="1" parent="1">
+          <mxGeometry x="445" y="70" width="30" height="580" as="geometry" />
+        </mxCell>
+        <mxCell id="QHD_cZJudqXIN7brZWgv-56" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.infographic.cylinder;fillColor=#AE4132;strokeColor=none;shadow=0;fontColor=#10739E;align=left;rotation=90;direction=east;" vertex="1" parent="1">
+          <mxGeometry x="445" y="-102" width="30" height="580" as="geometry" />
+        </mxCell>
+        <mxCell id="QHD_cZJudqXIN7brZWgv-55" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.infographic.cylinder;fillColor=#F2931E;strokeColor=none;shadow=0;fontColor=#10739E;align=left;rotation=90;direction=east;" vertex="1" parent="1">
+          <mxGeometry x="445" y="-130" width="30" height="580" as="geometry" />
+        </mxCell>
+        <mxCell id="QHD_cZJudqXIN7brZWgv-54" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.infographic.cylinder;fillColor=#10739E;strokeColor=none;shadow=0;fontColor=#10739E;align=left;rotation=90;direction=east;" vertex="1" parent="1">
+          <mxGeometry x="445" y="-155" width="30" height="580" as="geometry" />
+        </mxCell>
+        <mxCell id="QHD_cZJudqXIN7brZWgv-61" value="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0)&quot;&gt;.&lt;/span&gt;&lt;br style=&quot;color: rgb(0 , 0 , 0)&quot;&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0)&quot;&gt;.&lt;/span&gt;&lt;br style=&quot;color: rgb(0 , 0 , 0)&quot;&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0)&quot;&gt;.&lt;/span&gt;&lt;br style=&quot;color: rgb(0 , 0 , 0)&quot;&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0)&quot;&gt;.&lt;/span&gt;&lt;br style=&quot;color: rgb(0 , 0 , 0)&quot;&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0)&quot;&gt;.&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=#10739E;" vertex="1" parent="1">
+          <mxGeometry x="450" y="230" width="20" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
